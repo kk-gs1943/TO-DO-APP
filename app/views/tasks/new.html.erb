@@ -1,0 +1,5 @@
+<h2 class="title">CREATE NEW TASK</h2>
+<%= form_with url: "/tasks/create", local: true do |f| %>
+  <p><%= f.text_field :title, class: "form-control" %></p>
+    <p><%= f.submit "CREATE", class: "btn btn-outline-primary" %></p>
+<% end %>
