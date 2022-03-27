@@ -1,24 +1,27 @@
-# README
+![TODOAPP](https://user-images.githubusercontent.com/84620235/160272987-50a3ae7f-8c10-4475-b2f7-695fe3ce1f88.png)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# NewPortfolio
 
-Things you may want to cover:
+* 私のポートフォリオサイトです。
 
-* Ruby version
+## 使い方
 
-* System dependencies
+* 「CREATE NEW TASK」ボタンでタスクの生成
+* タスク右側の削除ボタンでタスクの削除
 
-* Configuration
+## 使用技術
 
-* Database creation
+* Ruby
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* Ruby on Rails
 
-* Database initialization
+## 文責
 
-* How to run the test suite
+* Kohei Kanazawa
 
-* Services (job queues, cache servers, search engines, etc.)
+## ライセンス
 
-* Deployment instructions
-
-* ...
+This software is released under the MIT License, see LICENSE.txt.
