@@ -1,8 +1,8 @@
 ![TODOAPP](https://user-images.githubusercontent.com/84620235/160272987-50a3ae7f-8c10-4475-b2f7-695fe3ce1f88.png)
 
-# NewPortfolio
+# TODOAPP
 
-* 私のポートフォリオサイトです。
+* Ruby on Railsでタスク管理アプリを作成しました。
 
 ## 使い方
 
@@ -17,6 +17,7 @@
 * JavaScript
 * Bootstrap
 * Ruby on Rails
+* SQLite
 
 ## 文責
 
