@@ -18,6 +18,7 @@
 * Bootstrap
 * Ruby on Rails
 * SQLite
+* Heroku
 
 ## 文責
 
